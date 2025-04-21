@@ -1,5 +1,5 @@
 // Log that the background script is loaded
-console.log('Incognito Link Opener background script loaded');
+console.log('jam-cognito background script loaded');
 
 // Listen for messages from content script
 chrome.runtime.onMessage.addListener((message: { action: string; url?: string }, sender, sendResponse) => {

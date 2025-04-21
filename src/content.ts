@@ -1,5 +1,5 @@
 // Log that content script is loaded
-console.log('Incognito Link Opener content script loaded');
+console.log('jam-cognito content script loaded');
 
 interface ShortcutConfig {
   ctrl: boolean;

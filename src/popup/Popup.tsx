@@ -116,7 +116,7 @@ const Popup: React.FC = () => {
   return (
     <StyledContainer>
       <StyledPaper elevation={3}>
-        <Title variant="h5">Configure Keyboard Shortcut</Title>
+        <Title variant="h5">jam-cognito</Title>
         <Typography variant="body1" gutterBottom>
           Select the keys to hold while clicking a link to open it in an incognito tab.
         </Typography>

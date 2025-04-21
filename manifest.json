@@ -1,5 +1,5 @@
 {
-  "name": "Incognito Link Opener",
+  "name": "jam-cognito",
   "version": "1.0",
   "manifest_version": 3,
   "description": "Open links in incognito tabs with customizable keyboard shortcuts",

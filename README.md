@@ -1,4 +1,4 @@
-# Incognito Link Opener - Chrome Extension
+# jam-cognito - Chrome Extension
 
 A Chrome extension that allows you to open links in incognito tabs using configurable keyboard shortcuts.
 
